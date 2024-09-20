@@ -1,0 +1,26 @@
+body {
+			background-color: #E2EAF4;
+		}
+
+		h1 {
+			color: #7986CB;
+			text-align: center;
+		}
+		h2 {
+			color: #303F9F;
+			text-align: center;
+			font-size: 22px;
+			font-family: Roboto;
+		}
+		h3 {
+			color: #303F9F;
+			text-align: left;
+			font-size: 20px;
+		}
+
+		p {
+			font-family: verdana;
+			font-size: 20px;
+			text-align: center;
+			color: #9FA8DA;
+}
